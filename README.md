@@ -20,7 +20,7 @@
 5. Test the API
 
 
-![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/blob/master/Images/GB-AKS-API-E3-01.png)
+![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01.png)
 
 ----------------------------------------------------------
 ### 1. Configure the Azure DNS Zone
@@ -40,7 +40,7 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 ```
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/blob/master/Images/GB-AKS-API-E3-02.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02.png)
 
 
 ----------------------------------------------------------
@@ -62,7 +62,7 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 ```
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/blob/master/Images/GB-AKS-API-E3-03.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-03.png)
 
 
 ----------------------------------------------------------
@@ -74,7 +74,7 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 ```
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/blob/master/Images/GB-AKS-API-E3-03.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-03.png)
 
 
 ------------------------------------------------------------------------------
@@ -85,7 +85,7 @@
 
 [Episode1](https://github.com/GBuenaflor/01azure-aks-apimanagement/) - Build the infrastructure using Azure Terraform and Generate the Lets Encrypt Certificate 
 
-[Episode2](https://github.com/GBuenaflor/01azure-aks-apimanagement-02/) - Create and contenerize ASP.Net Core Web API and WCF app then deploy to AKS ( Windows and Linux Node Pool)
+[Episode2](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/) - Create and contenerize ASP.Net Core Web API and WCF app then deploy to AKS ( Windows and Linux Node Pool)
 
 [Episode3](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/) - Configure API Management External and Internal Enpoints
 
