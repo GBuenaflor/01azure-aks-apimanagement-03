@@ -40,7 +40,7 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 ```
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01.png)
 
 
 ----------------------------------------------------------
