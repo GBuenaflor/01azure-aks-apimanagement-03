@@ -16,15 +16,11 @@
 
 #### Episode 3 - Configure API Management External and Internal Enpoints
 
-
 1. Configure the Azure DNS Zone
 2. Configure the Application Gateway
 3. Configure the API Management External API Endpoints
 4. Configure the API Management Internal API Endpoints
 5. Test the API
-
-
-![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01.png)
 
 ----------------------------------------------------------
 ### 1. Configure the Azure DNS Zone
@@ -56,6 +52,8 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 ```
  
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02.png)
+
  
 ----------------------------------------------------------
 ### 4. Configure the API Management Internal API Endpoints
