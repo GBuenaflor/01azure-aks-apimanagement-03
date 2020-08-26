@@ -10,7 +10,7 @@
 ----------------------------------------------------------
 ### High Level Architecture Diagram for the 3 Episodes:
 
-![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement/blob/master/Images/GB-AKS-API02B.png)
+![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement/blob/master/Images/GB-AKS-API02C.png)
 
 ----------------------------------------------------------
 
