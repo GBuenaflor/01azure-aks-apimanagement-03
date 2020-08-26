@@ -16,23 +16,15 @@
 
 #### Episode 3 - Configure API Management External / Internal Endpoints and publish API's that runs from AKS
 
-1. Configure the Azure DNS Zone
-2. Configure the Application Gateway
+1. Publish the ASP.net Core Web API deployed from AKS to API Management Service
+2. Publish the WCF Service Application deployed from AKS to API Management Service
 3. Configure the API Management External API Endpoints
-4. Configure the API Management Internal API Endpoints
-5. Test the API
-
+4. Configure the API Management Internal Endpoints
+5. Test the API Management External API Endpoints
+6. Test the API Management Internal API Endpoints
+ 
 ----------------------------------------------------------
-### 1. Configure the Azure DNS Zone
-
-```diff
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-```
-
-----------------------------------------------------------
-### 2. Configure the Application Gateway
+### 1. Publish the ASP.net Core Web API deployed from AKS to API Management Service
 
 ```diff
 - This repo is under construction,I am finalizing the code. Please stay tuned.
@@ -42,6 +34,16 @@
 
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01A.png)
 
+----------------------------------------------------------
+### 2. Publish the WCF Service Application deployed from AKS to API Management Service
+
+```diff
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+```
+
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01A.png)
 
 ----------------------------------------------------------
 ### 3. Configure the API Management External API Endpoints
@@ -50,13 +52,28 @@
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 - This repo is under construction,I am finalizing the code. Please stay tuned.
 - This repo is under construction,I am finalizing the code. Please stay tuned.
+
+- Configure the Azure DNS Zone
+- Configure the Application Gateway
+- Configure the API Management Custom DNS
+
 ```
  
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02.png)
 
  
 ----------------------------------------------------------
-### 4. Configure the API Management Internal API Endpoints
+### 4. Configure the API Management Internal Endpoints
+
+```diff
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+- This repo is under construction,I am finalizing the code. Please stay tuned.
+```
+
+ 
+----------------------------------------------------------
+### 5. Test the API Management External API Endpoints
 
 ```diff
 - This repo is under construction,I am finalizing the code. Please stay tuned.
@@ -68,7 +85,7 @@
 
 
 ----------------------------------------------------------
-### 5. Test the API
+### 6. Test the API Management Internal API Endpoints
 
 ```diff
 - This repo is under construction,I am finalizing the code. Please stay tuned.
