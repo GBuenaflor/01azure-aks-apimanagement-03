@@ -79,7 +79,7 @@ kubectl apply --namespace default -f "03wcf.yaml" --force
 #### 1.4 Create a blank API and configure the API Settings 
 
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01A.png)
 
 ##### Note: You can also use the API custom DNS for the Webservice URL.
   
@@ -137,7 +137,7 @@ kubectl apply --namespace default -f "02webapi.yaml" --force
 #### 2.4 Create a blank API and configure the API Settings 
 
 
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02.png)
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02A.png)
 
  
 ##### Note: You can also use the API custom DNS for the Webservice URL.
