@@ -178,18 +178,30 @@ Certificate : > Upload the .pfx certificate that we use in Episode 1
 ```
 
 
-#### 3.4 Configure and test the interconnectivity for Azure DNS, App Gateway and API Management
+#### 3.4 Configure and test the interconnectivity for Azure DNS, App Gateway and API Management components
 
 ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-03.png)
  
+##### View the external API 
+
+![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-04.png)
  
 ----------------------------------------------------------
 ### 4. Configure and test the interconnectivity the API Management Internal API Endpoints
 
-![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-04.png)
- 
-  
+#####  Provisioned VM inside the VNet, edit the host File from C:\Windows\System32\drivers\etc.
+#####  The 10.0.2.5 is the Private IP Address of API Management
 
+```
+10.0.2.5 az-apim01.azure-api.net      
+10.0.2.5 az-apim01.portal.azure-api.net    
+10.0.2.5 az-apim01.developer.azure-api.net
+10.0.2.5 az-apim01.management.azure-api.net
+10.0.2.5 az-apim01.scm.azure-api.net
+```
+##### THe API Portal can be edited inside Network.
+![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-05.png)
+ 
 ------------------------------------------------------------------------------
  
 #### Go to next or other Episodes:
