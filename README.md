@@ -76,7 +76,7 @@ spec:
 kubectl apply --namespace default -f "03wcf.yaml" --force
 ```
 
-#### 1.4 Create a blank API and configure the API Settings 
+#### 1.4 In the API Management, create a blank API and configure the API Settings 
 
 
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01A.png)
@@ -134,7 +134,7 @@ spec:
 kubectl apply --namespace default -f "02webapi.yaml" --force
 ```
 
-#### 2.4 Create a blank API and configure the API Settings 
+#### 2.4 In the API Management,create a blank API and configure the API Settings 
 
 
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02A.png)
@@ -180,7 +180,7 @@ Certificate : > Upload the .pfx certificate that we use in Episode 1
 ```
 
 
-#### 3.4 Configure App Gateway and API Management
+#### 3.4 Configure Azure DNS, App Gateway and API Management
 
 ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-03.png)
  
