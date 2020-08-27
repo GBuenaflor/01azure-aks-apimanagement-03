@@ -79,7 +79,7 @@ kubectl apply --namespace default -f "03wcf.yaml" --force
 
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-01A.png)
 
-##### Note: You can also use the API custom DNS for the Webservice URL.
+##### Note: You can also use the API custom DNS for the Webservice URL to utilize the two nodes dynamically.
   
 ----------------------------------------------------------
 ### 2. Publish the ASP.net Core Web API deployed from AKS to API Management Service
@@ -138,7 +138,7 @@ kubectl apply --namespace default -f "02webapi.yaml" --force
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-02A.png)
 
  
-##### Note: You can also use the API custom DNS for the Webservice URL.
+##### Note: You can also use the API custom DNS for the Webservice URL to utilize the two nodes dynamically.
  
 
 ----------------------------------------------------------
