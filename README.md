@@ -19,14 +19,12 @@
 1. Publish the WCF Service Application deployed from AKS to API Management Service
 2. Publish the ASP.net Core Web API deployed from AKS to API Management Service
 3. Configure the API Management External API Endpoints
-4. Configure the API Management Internal Endpoints
-5. Test the API Management External API Endpoints
-6. Test the API Management Internal API Endpoints
+4. Configure and test the interconnectivity the API Management Internal API Endpoints
  
 ----------------------------------------------------------
 ### 1. Publish the WCF Service Application deployed from AKS to API Management Service
 
-#### 1.1 Option 1 - Connect API from AKS to API Management using a Loadbalancer IP, configure Service section in the 03wcf-Ext-Int.yaml AKS manifest file
+#### 1.1 Option 1 - Connect API deployed from AKS to API Management using a Loadbalancer IP, configure Service section in the 03wcf-Ext-Int.yaml AKS manifest file
 
 ```diff
 apiVersion: v1
@@ -47,7 +45,7 @@ spec:
   type: LoadBalancer  
 ```
 
-#### 1.2 Option 2 - Connect API from AKS to API Management using a NodePort IP, configure Service section in the 03wcf-Ext-Int.yaml AKS manifest file
+#### 1.2 Option 2 - Connect API deployed from AKS to API Management using a NodePort IP, configure Service section in the 03wcf-Ext-Int.yaml AKS manifest file
 
 ```diff
 apiVersion: v1
@@ -180,31 +178,17 @@ Certificate : > Upload the .pfx certificate that we use in Episode 1
 ```
 
 
-#### 3.4 Configure Azure DNS, App Gateway and API Management
+#### 3.4 Configure and test the interconnectivity for Azure DNS, App Gateway and API Management
 
 ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-03.png)
  
  
 ----------------------------------------------------------
-### 4. Configure the API Management Internal API Endpoints
+### 4. Configure and test the interconnectivity the API Management Internal API Endpoints
 
 ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-04.png)
  
- 
-----------------------------------------------------------
-### 5. Test the API Management 
-
-
-#### 5.1 External API Endpoints
-
-
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-05.png)
-
-#### 5.1 Internal API Endpoints
-
-
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-07.png)
-
+  
 
 ------------------------------------------------------------------------------
  
