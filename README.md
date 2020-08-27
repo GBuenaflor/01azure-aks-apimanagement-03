@@ -186,37 +186,22 @@ Certificate : > Upload the .pfx certificate that we use in Episode 1
  
  
 ----------------------------------------------------------
-### 4. Configure the API Management Internal Endpoints
+### 4. Configure the API Management Internal API Endpoints
 
-```diff
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-```
-
-![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-05.png)
+![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-04.png)
  
  
 ----------------------------------------------------------
-### 5. Test the API Management External API Endpoints
-
-```diff
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-```
-
- ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-06.png)
+### 5. Test the API Management 
 
 
-----------------------------------------------------------
-### 6. Test the API Management Internal API Endpoints
+#### 5.1 External API Endpoints
 
-```diff
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-- This repo is under construction,I am finalizing the code. Please stay tuned.
-```
+
+ ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-05.png)
+
+#### 5.1 Internal API Endpoints
+
 
  ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-07.png)
 
