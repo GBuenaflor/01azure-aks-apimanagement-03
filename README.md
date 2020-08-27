@@ -199,12 +199,14 @@ Certificate : > Upload the .pfx certificate that we use in Episode 1
 10.0.2.5 az-apim01.management.azure-api.net
 10.0.2.5 az-apim01.scm.azure-api.net
 ```
-##### THe API Portal can be edited inside Network.
+##### The API Portal can be edited inside Network.
 ![Image description](https://github.com/GBuenaflor/01azure-aks-apimanagement-03/blob/master/Images/GB-AKS-API-E3-05.png)
  
+ 
+End of the Episode!...
 ------------------------------------------------------------------------------
  
-#### Go to next or other Episodes:
+#### Go to other Episodes:
 
 
 [Episode1](https://github.com/GBuenaflor/01azure-aks-apimanagement/) - Build the infrastructure using Azure Terraform and Generate the Lets Encrypt Certificate 
